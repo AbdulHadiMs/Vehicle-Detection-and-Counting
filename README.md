@@ -36,8 +36,7 @@ pip install -r requirements.txt
 3. Run the script:
 ```bash
 python vehicle_detector.py --input <video_path> --output <output_path>
-```
-Replace <video_path> with the path to your video file and <output_path> with the desired output path for the processed video. 
+``` 
 ## Script Overview
 ```
 vehicle_detector.py
