@@ -27,7 +27,7 @@ pip install -r requirements.txt
 
 1. Clone this repository:
 ```bash
-   git clone https://github.com/your_username/vehicle-counting-system.git
+   git clone https://github.com/AbdulHadiMs/vehicle-counting-system.git
    cd vehicle-counting-system
 ```
 2. Prepare your video input:
